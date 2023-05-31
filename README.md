@@ -1,6 +1,15 @@
 # Section-11-Forms
 Vue Forms
 
+<h2>Section 11 contains:</h2>
+
+     1. v-model & inputs
+     2. v-model modifiers & numbers
+     3. Difference between using v-model and refs
+     4. Basic form validation
+     5. Custom control components
+     6. Using v-model with custom control components
+
 <h2>To run this project</h2>
 
     1. Download the zip/ clone the repository
